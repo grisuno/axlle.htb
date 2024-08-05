@@ -1,5 +1,5 @@
-# mist.htb
-mist.htb insane windows machine, Writeup complete, coming soon ;) 
+# axlle.htb
+axlle.htb hard windows machine, Writeup complete, coming soon ;) 
 
 hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
@@ -8,7 +8,7 @@ hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2Z73AV)
 
-![mist](https://github.com/user-attachments/assets/00b3c965-95c9-470b-b50e-156054092d03)
+![axlle](https://github.com/user-attachments/assets/5d9e5800-b48a-4077-9966-44af6625a75f)
 
 
 clone the repo:
